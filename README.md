@@ -11,7 +11,7 @@
 -   💬 Ask me about **HTML, CSS, JavaScript/TypeScript**.
 -   🤝 Looking forward to collaborate with other projects.
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
--   🎯 Current Goal: Create, Build and Deploy projects
+-   🎯 Current Goal: Learn, Create, Build, and Deploy projects
 -   ⚡ Fun fact: My Personality Type is **NPC**.
 -   📫 How to reach me: **beboy.eyana.m@gmail.com**
 
