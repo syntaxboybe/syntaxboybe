@@ -22,7 +22,7 @@
 #### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/syntaxboybe-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syntaxboybe)
-[![Instagram](https://img.shields.io/badge/syntax_boybe-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/syntax_boybe)
+[![Instagram](https://img.shields.io/badge/syntaxboybe-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/syntaxboybe)
 [![Facebook](https://img.shields.io/badge/syntaxboybe-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/syntaxboybe)
 [![Twitter](https://img.shields.io/badge/syntaxboybe-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/syntaxboybe)
 [![Discord](https://img.shields.io/badge/<SyntaxBoybe>-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/831106489141428275)
