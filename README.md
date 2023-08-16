@@ -15,7 +15,7 @@
 -   ⚡ Fun fact: My Personality Type is **NPC**.
 -   📫 How to reach me: **beboy.eyana.m@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=syntaxboybe&label=Profile%20views&color=000000&style=flat)
+![](https://komarev.com/ghpvc/?username=syntaxboybe&label=Profile%20views&color=013220&style=flat)
 
 #### Connect with me:
 
