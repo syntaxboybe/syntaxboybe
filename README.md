@@ -1,4 +1,4 @@
-<img alt="mylogoBG" align="center" width="100%" height="40%" src="./image/mylogoBG.jpg"/>
+<img alt="mylogoBG" align="center" width="100%" height="20%" src="./image/mylogoBG.jpg"/>
 
 <h1>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Beboy Eyana | aka SyntaxBoybe 👨‍💻🎮</h1>
 
@@ -26,7 +26,6 @@
 [![Facebook](https://img.shields.io/badge/syntaxboybe-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/syntaxboybe)
 [![Twitter](https://img.shields.io/badge/syntaxboybe-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/syntaxboybe)
 [![Discord](https://img.shields.io/badge/<SyntaxBoybe>-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/831106489141428275)
-
 #### Top Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,webpack,php,python,java,tailwind,bootstrap,mysql,postman,figma,git,github,bash,vscode,md)](https://skillicons.dev)
