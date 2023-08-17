@@ -26,4 +26,4 @@
 [![Discord](https://img.shields.io/badge/<SyntaxBoybe>-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/831106489141428275)
 #### Top Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,webpack,php,python,java,tailwind,bootstrap,mysql,postman,figma,git,github,bash,vscode,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,tailwind,bootstrap,mysql,postman,figma,git,github,vscode)](https://skillicons.dev)
