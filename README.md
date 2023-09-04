@@ -7,7 +7,7 @@
 <a href="https://app.daily.dev/SyntaxBoybe"><img align="right" src="https://api.daily.dev/devcards/e091829a9dfd42a19fe5adae100780ed.png?r=4q5" width="27%" alt="Beboy Eyana's Dev Card"/></a>
 
 -   ⚒ I’m currently working on my **Front-End Skills**.
--   🌱 I’m currently learning Laravel and Vanilla JS.
+-   🌱 I’m currently learning Laravel Php Framework.
 -   💬 Ask me about **styling and design**.
 -   🤝 Looking forward to collaborate with other projects.
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
