@@ -8,7 +8,7 @@
 
 -   ⚒ I’m currently working on my **Front-End Skills**.
 -   🌱 I’m currently learning Laravel and Vanilla JS.
--   💬 Ask me about **HTML, CSS, JavaScript/TypeScript**.
+-   💬 Ask me about **styling and design**.
 -   🤝 Looking forward to collaborate with other projects.
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
 -   🎯 Current Goal: Learn, Create, Build, and Deploy projects
