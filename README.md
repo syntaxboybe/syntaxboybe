@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=FF10F0&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student+and+self-taught+dev;Aspiring+Web+Developer+from+the+Philippines.;~+Cogito,+ergu+sum)](https://git.io/typing-svg)
 
-<a href="https://app.daily.dev/SyntaxBoybe"><img src="https://api.daily.dev/devcards/e091829a9dfd42a19fe5adae100780ed.png?r=s5b" width="300" alt="Beboy Eyana's Dev Card"/></a>
+<a href="https://app.daily.dev/SyntaxBoybe"><img align="right" src="https://api.daily.dev/devcards/e091829a9dfd42a19fe5adae100780ed.png?r=s5b" width="27%" alt="Beboy Eyana's Dev Card"/></a>
 
 -   ⚒ I’m currently working on my **Front-End Skills**.
 -   🌱 I’m currently learning Laravel Php Framework.
