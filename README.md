@@ -24,6 +24,14 @@
 [![Facebook](https://img.shields.io/badge/syntaxboybe-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/syntaxboybe)
 [![Twitter](https://img.shields.io/badge/syntaxboybe-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/syntaxboybe)
 [![Discord](https://img.shields.io/badge/<SyntaxBoybe>-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/831106489141428275)
+
+## 🌏 My Personal Tech Communities
+
+Join my tech communities for some exciting chats!
+
+[![Community](https://discord.com/api/guilds/1150126011036487723/widget.png?style=banner2)](https://discord.gg/daedalusdev) 
+
+
 <!-- #### Top Technologies:
 
 <!---[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)-->
