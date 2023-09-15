@@ -25,11 +25,11 @@
 [![Twitter](https://img.shields.io/badge/syntaxboybe-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/syntaxboybe)
 [![Discord](https://img.shields.io/badge/<SyntaxBoybe>-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/831106489141428275)
 
-## 🌏 My Personal Tech Communities
+## 🌏 Tech Communities
 
-Join my tech communities for some exciting chats!
+Come and join to our community for some exciting chats!
 
-[![Community](https://discord.com/api/guilds/1150126011036487723/widget.png?style=banner2)](https://discord.gg/daedalusdev) 
+[![Discord](https://img.shields.io/badge/Daedalus-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daedalusdev) 
 
 
 <!-- #### Top Technologies:
