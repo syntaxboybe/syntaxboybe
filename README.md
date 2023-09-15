@@ -17,7 +17,7 @@
 
 ![](https://komarev.com/ghpvc/?username=syntaxboybe&label=Profile%20views&color=0e75b6&style=flat)
 
-#### Connect with me:
+# 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/syntaxboybe-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syntaxboybe)
 [![Instagram](https://img.shields.io/badge/syntaxboybe-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/syntaxboybe)
@@ -25,7 +25,7 @@
 [![Twitter](https://img.shields.io/badge/syntaxboybe-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/syntaxboybe)
 [![Discord](https://img.shields.io/badge/<SyntaxBoybe>-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/831106489141428275)
 
-## 🌏 Tech Communities
+# 🌏 Tech Communities
 
 Come and join to our community for some exciting chats!
 
