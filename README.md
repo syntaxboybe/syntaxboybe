@@ -1,17 +1,17 @@
 <img alt="banner" align="center" width="100%" height="1%" src="./image/banner.png"/>
 
-<h1>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Beboy Eyana | aka SyntaxBoybe <👨‍💻|👨‍🌾> </h1>
+<h1>Hi there!👋 I'm Beboy Eyana | aka syntaxboybe <👨‍💻|👨‍🌾> </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=15f4ee&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student;Aspiring+Web+Developer+from+the+Philippines.;~+Cogito,+ergu+sum)](https://git.io/typing-svg)
 
 <a href="https://app.daily.dev/SyntaxBoybe"><img align="right" src="https://api.daily.dev/devcards/e091829a9dfd42a19fe5adae100780ed.png?r=s5b" width="27%" alt="Beboy Eyana's Dev Card"/></a>
 
--   ⚒ I’m currently working on my **Front-End Skills**.
--   🌱 I’m currently learning Laravel Php Framework.
+-   ⚒ I’m currently working on my **Capstone Project**.
+-   🌱 I’m currently learning **Laravel Php Framework**.
 -   💬 Ask me about **styling and design**.
--   🤝 Looking forward to collaborate with other projects.
--   🤔 I’m looking for help with other Web Frameworks and Tools.
--   🎯 Current Goal: Learn, Create, Build, and Deploy projects
+-   🤝 Looking forward to **collaborate with other projects**.
+-   🤔 I’m looking for help with other **Web Frameworks and Tools**.
+-   🎯 Current Goal: **Learn, Create, Build, and Deploy projects**
 -   ⚡ Fun fact: My Personality Type is **NPC**.
 -   📫 How to reach me: **beboy.eyana.m@gmail.com**
 
