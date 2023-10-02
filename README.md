@@ -2,7 +2,7 @@
 
 <h1>Hi there!👋 I'm Beboy Eyana | aka syntaxboybe <👨‍💻|👨‍🌾> </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=15f4ee&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student;Aspiring+Web+Developer+from+the+Philippines.;~+Cogito,+ergu+sum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=15f4ee&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student;Aspiring+Developer+from+the+Philippines.;~+Cogito,+ergu+sum)](https://git.io/typing-svg)
 
 <a href="https://app.daily.dev/syntax_boybe"><img align="right" src="https://api.daily.dev/devcards/e091829a9dfd42a19fe5adae100780ed.png?r=qo1" width="40%" alt="Beboy Eyana's Dev Card"/></a>
 
