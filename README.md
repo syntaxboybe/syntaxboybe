@@ -27,7 +27,7 @@
 [![Linktree](https://img.shields.io/badge/syntaxboybe-0077B5?&logo=linktree&logoColor=white)](https://www.linktr.ee/syntaxboybe)
 # 🌏 Tech Communities
 
-Come and join to our community for some exciting chats!
+Come and join to our Daedalus Community!
 
 [![Discord](https://img.shields.io/badge/Daedalus-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daedalusdev) 
 
