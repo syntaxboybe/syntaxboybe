@@ -1,21 +1,23 @@
 <img alt="banner" align="center" width="100%" height="1%" src="./image/banner.png"/>
 
-<h1>Hello there!👋 I'm Beboy Eyana aka syntaxboybe </h1>
+<h1>𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎!👋 𝙸'𝚖 𝙱𝚎𝚋𝚘𝚢 𝙴𝚢𝚊𝚗𝚊 𝚊𝚔𝚊 𝚜𝚢𝚗𝚝𝚊𝚡𝚋𝚘𝚢𝚋𝚎 👨🏻‍💻 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=15f4ee&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student;Aspiring+Developer+from+the+Philippines.;~+Cogito,+ergu+sum)](https://git.io/typing-svg)
 
 <a href="https://app.daily.dev/syntax_boybe"><img align="right" src="https://api.daily.dev/devcards/e091829a9dfd42a19fe5adae100780ed.png?r=qo1" width="40%" alt="Beboy Eyana's Dev Card"/></a>
 
--   ⚒ I’m currently working on my **Capstone Project**.
--   🌱 I’m currently learning **Web Development**.
--   💬 Ask me about **Style and Design**.
--   🤝 Looking forward to **Collaborate with an Open-source Project**.
--   🤔 I’m looking for help with other **Web Development and Tech Tools**.
--   🎯 Current Goal: **Learn and Build Solutions for the Community**
--   ⚡ Fun fact: My Personality Type is **NPC**.
--   📫 How to reach me: **beboy.eyana.m@gmail.com**
+-   🛠️ I’m currently working on my **Capstone Project**
+-   💡 I’m currently learning **Web Development**
+-   ❓ Ask me about **Art related stuff & Web Design**
+-   🤝 Looking forward to **Collaborate with an Open-Source Project**
+-   🧐 I’m looking for help with other **Web Development and Tech Tools**
+-   💥 Current Goal: **Learn and Build Solutions for the Community**
+-   🤓 About Me: My Personality Type is **NPC**
+-   📧 How to reach me: **beboy.eyana.m@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=syntaxboybe&label=Profile%20views&color=0e75b6&style=flat)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/syntaxboybe)
 
 # 🔗 Connect with me:
 
