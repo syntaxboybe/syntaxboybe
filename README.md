@@ -32,6 +32,11 @@
 Come and join to our Daedalus Community!
 
 [![Discord](https://img.shields.io/badge/Daedalus-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daedalusdev) 
+[![Facebook](https://img.shields.io/badge/daedaluscommunity-2374E1?logo=facebook&logoColor=white)](https://web.facebook.com/groups/241206032249171)
+[![Facebook](https://img.shields.io/badge/daedalus-2374E1?logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61551474381616)
+
+
+
 
 ⡇⠀⠀⠀⠀⣼⠃⢠⡟⣰⣿⠟⣿⠋⡇⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣦⡙⢷⡀⠈⠉⠙⣧⡘⣧⠈⣿⡎⣿⣿⣿⣿⣿⣿⡼⣿⣧⣿⣽⣿⣿⣧⠉⢳⡌⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⡇⠀⠀⠀⠀⡏⢀⡿⣰⢿⡏⡼⠃⠀⠘⠀⠀⠀⠀⠀⣀⣀⣠⠤⠀⠈⠻⢮⣷⡀⠀⠀⠘⣧⢹⡇⢹⣷⣿⣿⣿⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿⣄⠀⣿⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿
