@@ -1,6 +1,6 @@
 <img alt="banner" align="center" width="100%" height="1%" src="./image/banner.png"/>
 
-<h1>Hi there!👋 I'm Beboy Eyana | aka syntaxboybe ☕🖥️ </h1>
+<h1>Hello there!👋 I'm Beboy Eyana aka syntaxboybe </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=15f4ee&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student;Aspiring+Developer+from+the+Philippines.;~+Cogito,+ergu+sum)](https://git.io/typing-svg)
 
@@ -8,10 +8,10 @@
 
 -   ⚒ I’m currently working on my **Capstone Project**.
 -   🌱 I’m currently learning **Web Development**.
--   💬 Ask me about **styling and design**.
--   🤝 Looking forward to **collaborate with other projects**.
--   🤔 I’m looking for help with other **Web Frameworks and Tools**.
--   🎯 Current Goal: **Learn, Create, Build, and Deploy projects**
+-   💬 Ask me about **Style and Design**.
+-   🤝 Looking forward to **Collaborate with an Open-source Project**.
+-   🤔 I’m looking for help with other **Web Development and Tech Tools**.
+-   🎯 Current Goal: **Learn and Build Solutions for the Community**
 -   ⚡ Fun fact: My Personality Type is **NPC**.
 -   📫 How to reach me: **beboy.eyana.m@gmail.com**
 
