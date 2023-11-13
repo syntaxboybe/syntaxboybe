@@ -6,7 +6,7 @@
 
 <a href="https://app.daily.dev/syntax_boybe"><img align="right" src="https://api.daily.dev/devcards/e091829a9dfd42a19fe5adae100780ed.png?r=qo1" width="40%" alt="Beboy Eyana's Dev Card"/></a>
 
--   🛠️ I’m currently working on my **Capstone Project**
+-   🛠️ I’m currently working on my **Capstone Project & Portfolio**
 -   💡 I’m currently learning **Web Development**
 -   ❓ Ask me about **Art related stuff & Web Design**
 -   🤝 Looking forward to **Collaborate with an Open-Source Project**
