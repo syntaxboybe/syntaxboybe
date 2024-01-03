@@ -8,7 +8,7 @@
 
 -   🛠️ I’m currently working on my **Capstone Project & Portfolio**
 -   💡 I’m currently exploring **Web Development**
--   ❓ Ask me about **Art related stuff & Web Design**
+-   ❓ Ask me about **Graphic & Web Design**
 -   🤝 Looking forward to **Collaborate with an Open-Source Project**
 -   🧐 I’m looking for help with other **Web Development and Tech Tools**
 -   💥 Current Goal: **Learn and Build Solutions for the Community**
