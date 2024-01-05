@@ -10,7 +10,7 @@
 -   💡 I’m currently exploring **Web Development**
 -   ❓ Ask me about **Graphic & Web Design**
 -   🤝 Looking forward to **Collaborate with an Open-Source Project**
--   🧐 I’m looking for help with other **Web Development and Tech Support Tools**
+-   🧐 I’m looking for help with other **Web Development & Tech Support Tools**
 -   💥 Current Goal: **Learn and Build Solutions for the Community**
 -   🤓 About Me: My Personality Type is **NPC**
 -   📧 How to reach me: **beboy.eyana.m@gmail.com**
