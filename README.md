@@ -6,15 +6,15 @@
 
 <a href="https://app.daily.dev/syntax_boybe"><img align="right" src="https://api.daily.dev/devcards/e091829a9dfd42a19fe5adae100780ed.png?r=qo1" width="40%" alt="Beboy Eyana's Dev Card"/></a>
 
-  🛠️ Currently working on my **Capstone Project & Portfolio**
-  💡 Currently exploring **Web Development**
-  🤔 Interested in **Graphic Art & Project Development**
-  🤝 Looking forward to **Collaborate with an Open-Source Project**
-  🧐 looking for help with **Web Development & Tech Support Tools**
-  💥 Current Goal: **Learn and Build Solutions for the Community**
-  🤓 About Me: My Personality Type is **NPC**
-  📧 How to reach me: **beboy.eyana.m@gmail.com**
-  🌐 My ongoing Web Portfolio: **https://syntaxboybe-portfolio.vercel.app/**
+  - 🛠️ Currently working on my **Capstone Project & Portfolio**
+  - 💡 Currently exploring **Web Development**
+  - 🤔 Interested in **Graphic Art & Project Development**
+  - 🤝 Looking forward to **Collaborate with an Open-Source Project**
+  - 🧐 looking for help with **Web Development & Tech Support Tools**
+  - 💥 Current Goal: **Learn and Build Solutions for the Community**
+  - 🤓 About Me: My Personality Type is **NPC**
+  - 📧 How to reach me: **beboy.eyana.m@gmail.com**
+  - 🌐 My ongoing Web Portfolio: **https://syntaxboybe-portfolio.vercel.app/**
 
 ![](https://komarev.com/ghpvc/?username=syntaxboybe&label=Profile%20views&color=0e75b6&style=flat)
 
