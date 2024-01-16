@@ -14,7 +14,7 @@
   - 💥 Current Goal: **Learn and Build Solutions for the Community**
   - 🤓 About Me: My Personality Type is **NPC**
   - 📧 How to reach me: **beboy.eyana.m@gmail.com**
-  - 🌐 My ongoing Web Portfolio: **https://syntaxboybe-portfolio.vercel.app/**
+  - 🌐 I.P. Web Portfolio: **https://syntaxboybe-portfolio.vercel.app/**
 
 ![](https://komarev.com/ghpvc/?username=syntaxboybe&label=Profile%20views&color=0e75b6&style=flat)
 
