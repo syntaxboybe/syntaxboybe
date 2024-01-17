@@ -30,7 +30,7 @@
 [![Linktree](https://img.shields.io/badge/syntaxboybe-0077B5?&logo=linktree&logoColor=white)](https://www.linktr.ee/syntaxboybe)
 # 🌏 Tech Communities
 
-Come and join to our Daedalus Community!
+🤝 Come and join to our Daedalus Community!
 
 [![Discord](https://img.shields.io/badge/Daedalus-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daedalusdev) 
 [![Facebook](https://img.shields.io/badge/daedaluscommunity-2374E1?logo=facebook&logoColor=white)](https://web.facebook.com/groups/241206032249171)
