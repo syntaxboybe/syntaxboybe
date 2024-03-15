@@ -16,6 +16,7 @@
   - 📧 How to reach me: **beboy.eyana.m@gmail.com**
   - 🌐 I.P. Web Portfolio: **https://syntaxboybe-portfolio.vercel.app/**
   - 🎮 2D-Portfolio: **https://syntaxboybe-2dp.vercel.app/**
+  - 🌐 Personal Website: **https://beboyeyana-syntaxboybe.vercel.app/**
 
 ![](https://komarev.com/ghpvc/?username=syntaxboybe&label=Profile%20views&color=0e75b6&style=flat)
 
