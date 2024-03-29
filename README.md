@@ -14,7 +14,6 @@
   - 💥 Current Goal: **Learn and Build Solutions for the Community**
   - 🤓 About Me: My Personality Type is **NPC**
   - 📧 How to reach me: **beboy@daedalus.codes**
-  - 🌐 I.P. Web Portfolio: **https://syntaxboybe-portfolio.vercel.app/**
   - 🎮 2D-Portfolio: **https://syntaxboybe-2dp.vercel.app/**
   - 🌐 Personal Website: **https://beboyeyana-syntaxboybe.vercel.app/**
 
