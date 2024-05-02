@@ -8,7 +8,7 @@
 
   - 🛠️ Currently working on **Self-Upskilling**
   - 💡 Currently exploring **Web Development & Game Development**
-  - 🤔 Interested in **Graphic Art & Project Development**
+  - 🤔 Interested in **Graphic Art & Game Development**
   - 🤝 Looking forward to **Collaborate with an Open-Source Project**
   - 🧐 looking for help with **Web Development & Tech Support Tools**
   - 💥 Current Goal: **Learn and Build Solutions for the Community**
