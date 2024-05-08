@@ -22,14 +22,14 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/syntaxboybe)
 
-# 🔗 Connect with me:
+<!--# 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/beboyeyana-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syntaxboybe)
 [![Instagram](https://img.shields.io/badge/syntaxboybe-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/syntaxboybe)
 [![Facebook](https://img.shields.io/badge/syntaxboybe-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/syntaxboybe)
 [![Twitter](https://img.shields.io/badge/syntaxboybe-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/syntaxboybe)
 [![Discord](https://img.shields.io/badge/syntaxboybe-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/831106489141428275)
-[![Linktree](https://img.shields.io/badge/syntaxboybe-0077B5?&logo=linktree&logoColor=white)](https://www.linktr.ee/syntaxboybe)
+[![Linktree](https://img.shields.io/badge/syntaxboybe-0077B5?&logo=linktree&logoColor=white)](https://www.linktr.ee/syntaxboybe)-->
 # 🌏 Tech Communities
 
 🤝 Come and join to our Daedalus Community!
