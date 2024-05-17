@@ -1,4 +1,4 @@
-<!-- <img alt="banner" align="center" width="100%" height="1%" src="./image/banner.png"/> -->
+<img alt="banner" align="center" width="100%" height="1%" src="./image/banner.png"/>
 
 <h1>Hello there! I'm Beboy Eyana a.k.a syntaxboybe 🕵🏼‍♂️</h1>
 
