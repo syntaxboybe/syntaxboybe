@@ -1,6 +1,6 @@
 <img alt="banner" align="center" width="100%" height="1%" src="./image/banner.png"/>
 
-<h1>Hello there! I'm Beboy Eyana a.k.a syntaxboybe 🕵🏼‍♂️</h1>
+<h1>Hello there! I'm Beboy Eyana a.k.a syntaxboybe 👾</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=15f4ee&vCenter=true&width=685&height=20&lines=I'm+a+Information+Technology+Student;Aspiring+Developer+from+the+Philippines.;~+Cogito,+ergu+sum)](https://git.io/typing-svg)
 
