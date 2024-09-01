@@ -22,7 +22,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/syntaxboybe)
 
-🔗 Connect with me:
+# 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/beboyeyana-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syntaxboybe)
 [![Instagram](https://img.shields.io/badge/syntaxboybe-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/syntaxboybe)
